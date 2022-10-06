@@ -25,7 +25,7 @@ DoctrineEncrypt\Entity\UserDetail has 13 properties which are encrypted.
 You can use the comment `doctrine:encrypt:database [encryptor]` to encrypt the current database.
 
 * Optional parameter [encryptor]
-    * An encryptor provided by the bundle (AES-256 or AES-128) or your own [encryption class](https://github.com/ambta/DoctrineEncryptBundle/blob/master/Resources/doc/custom_encryptor.md).
+    * An encryptor provided by the bundle (AES-256 or AES-128) or your own [encryption class](https://github.com/dalyan91/DoctrineEncryptBundle/blob/master/Resources/doc/custom_encryptor.md).
     * Default: Your encryptor set in the configuration file or the default encryption class when not set in the configuration file
 
 ```
