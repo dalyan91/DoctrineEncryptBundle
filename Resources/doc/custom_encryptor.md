@@ -165,4 +165,4 @@ class FooAcmeBundle extends Bundle
 
 And that's it ! Now you rely on a file instead of a configuration value
 
-#### [Back to the index](https://github.com/ambta/DoctrineEncryptBundle/blob/master/Resources/doc/index.md)
+#### [Back to the index](https://github.com/dalyan91/DoctrineEncryptBundle/blob/master/Resources/doc/index.md)
