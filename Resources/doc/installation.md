@@ -18,7 +18,7 @@ AmbtaDoctrineEncryptBundle should be installed usin [Composer](http://getcompose
 ``` js
 {
     "require": {
-        "ambta/doctrine-encrypt-bundle": "^2.5"
+        "dalyan91/doctrine-encrypt-bundle": "^2.5"
     }
 }
 ```
@@ -26,7 +26,7 @@ AmbtaDoctrineEncryptBundle should be installed usin [Composer](http://getcompose
 Now tell composer to download the bundle by running the command:
 
 ``` bash
-$ php composer.phar update ambta/doctrine-encrypt-bundle
+$ php composer.phar update dalyan91/doctrine-encrypt-bundle
 ```
 
 Composer will install the bundle to your project's `vendor/ambta` directory.
@@ -50,4 +50,4 @@ public function registerBundles()
 All configuration value's are optional.
 On the following page you can find de configuration information.
 
-#### [Configuration](https://github.com/ambta/DoctrineEncryptBundle/blob/master/Resources/doc/configuration.md)
+#### [Configuration](https://github.com/dalyan91/DoctrineEncryptBundle/blob/master/Resources/doc/configuration.md)
