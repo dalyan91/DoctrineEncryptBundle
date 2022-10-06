@@ -47,4 +47,4 @@ ambta_doctrine_encrypt:
 
 Read how to use the database encryption bundle in your project.
 
-#### [Usage](https://github.com/ambta/DoctrineEncryptBundle/blob/master/Resources/doc/usage.md)
+#### [Usage](https://github.com/dalyan91/DoctrineEncryptBundle/blob/master/Resources/doc/usage.md)
